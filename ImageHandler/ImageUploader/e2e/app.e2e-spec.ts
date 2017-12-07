@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('angular-image-uploader App', () => {
+describe('image-uploader App', () => {
   let page: AppPage;
 
   beforeEach(() => {
